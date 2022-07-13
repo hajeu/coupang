@@ -1,137 +1,137 @@
-body{
-    width: 700px;
-    margin: 0 auto;
+body {
+  width: 700px;
+  margin: 0 auto;
 }
-div{
-    display: block;
+div {
+  display: block;
 }
-.all{
-    text-align: center;
-    margin: 0 auto;
+.all {
+  text-align: center;
+  margin: 0 auto;
 }
-.logo{
-    margin-top: 47.234px;
-    text-align: center;
+.logo {
+  margin-top: 47.234px;
+  text-align: center;
 }
-.coupangImage{
-    width: 195px;
-    height: 46px;
+.coupangImage {
+  width: 195px;
+  height: 46px;
 }
-.login{
-    display: block;
+.login {
+  display: block;
 }
-.email{
-    margin-top: 10px;
-    display: flex;
-    text-align: center;
-    justify-content: center;
+.email {
+  margin-top: 10px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
-.emailButton{
-    width: 43px;
-    height: 48px;
-    border: 1px solid #ccc;
-    background-color: #fafafa;
+.emailButton {
+  width: 43px;
+  height: 48px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
 }
-.emailImage{
-    margin-top: 15px;
-    height: 16px;
-    width: 20px;
+.emailImage {
+  margin-top: 15px;
+  height: 16px;
+  width: 20px;
 }
-.emailInput{
-    width: 413px;
-    font-size: 14px;
-    font-weight: 700;
-    text-indent: 12px;
-    margin-left: -1px;
-    height: 46px;
-    border: 1px solid #ccc;
+.emailInput {
+  width: 413px;
+  font-size: 14px;
+  font-weight: 700;
+  text-indent: 12px;
+  margin-left: -1px;
+  height: 46px;
+  border: 1px solid #ccc;
 }
-.emailInput::placeholder{
-    color: rgb(170, 170, 170);
+.emailInput::placeholder {
+  color: rgb(170, 170, 170);
 }
-.password{
-    margin-top: 13px;
-    display: flex;
-    text-align: center;
-    justify-content: center;
+.password {
+  margin-top: 13px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
-.passwordButton{
-    width: 43px;
-    height: 48px;
-    border: 1px solid #ccc;
-    background-color: #fafafa;
+.passwordButton {
+  width: 43px;
+  height: 48px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
 }
-.passwordImage{
-    margin-top: 15px;
-    height: 20px;
-    width: 20px;
+.passwordImage {
+  margin-top: 15px;
+  height: 20px;
+  width: 20px;
 }
-.passwordInput{
-    width: 413px;
-    font-size: 14px;
-    font-weight: 700;
-    text-indent: 12px;
-    margin-left: -1px;
-    height: 46px;
-    border: 1px solid #ccc;
+.passwordInput {
+  width: 413px;
+  font-size: 14px;
+  font-weight: 700;
+  text-indent: 12px;
+  margin-left: -1px;
+  height: 46px;
+  border: 1px solid #ccc;
 }
-.passwordInput::placeholder{
-    color: rgb(170, 170, 170);
+.passwordInput::placeholder {
+  color: rgb(170, 170, 170);
 }
-.check{
-    margin-top: 7px;
-    display: flex;
+.check {
+  margin-top: 7px;
+  display: flex;
 }
-.checkbox{
-    margin-left: 118.5px;
-    width: 24px;
-    height: 24px;
-    border: 1px solid #ccc;
-    background-color: #fff;
-    border-radius: 1px;
+.checkbox {
+  margin-left: 118.5px;
+  width: 24px;
+  height: 24px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 1px;
 }
-.autologin{
-    font-size: 14px;
-    margin-top: 7px;
-    margin-left: 2px;
+.autologin {
+  font-size: 14px;
+  margin-top: 7px;
+  margin-left: 2px;
 }
-.find{
-    color: #0073E9;
-    font-size: 14px;
-    margin-left: 200px;
-    margin-top: 7px;
+.find {
+  color: #0073e9;
+  font-size: 14px;
+  margin-left: 200px;
+  margin-top: 7px;
 }
-.button{
-    margin-top: 9px;
+.button {
+  margin-top: 9px;
 }
-.loginButton{
-    border: 0px;
-    background-color: #0073E9;
-    width: 463px;
-    height: 52px;
-    font-size: 17px;
-    color: #fff;
-    font-weight: bold;
+.loginButton {
+  border: 0px;
+  background-color: #0073e9;
+  width: 463px;
+  height: 52px;
+  font-size: 17px;
+  color: #fff;
+  font-weight: bold;
 }
-hr{
-    width: 463px;
-    border: 0.5px solid rgb(220, 220, 220);
-    margin-top: 18px;
-    margin-bottom: 18px;
+hr {
+  width: 463px;
+  border: 0.5px solid rgb(220, 220, 220);
+  margin-top: 18px;
+  margin-bottom: 18px;
 }
-.button2{
-    margin-top: 9px;
+.button2 {
+  margin-top: 9px;
 }
-.joinButton{
-    border: 1px solid #ccc;
-    background-color: #fff;
-    width: 463px;
-    height: 52px;
-    font-size: 17px;
-    color: #0073E9;
-    font-weight: bold;
+.joinButton {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  width: 463px;
+  height: 52px;
+  font-size: 17px;
+  color: #0073e9;
+  font-weight: bold;
 }
-.finish{
-    font-size: 12px;
-    margin-top: 20px;
+.finish {
+  font-size: 12px;
+  margin-top: 20px;
 }
