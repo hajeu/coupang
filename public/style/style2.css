@@ -1,0 +1,328 @@
+.information {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.29;
+  color: #111;
+  letter-spacing: normal;
+  text-align: center;
+  padding-right: 300px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+div {
+  display: block;
+}
+body {
+  padding: 0;
+  margin: 0;
+  height: 1500px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.main {
+  width: 195px;
+  height: 46px;
+  padding-top: 47.234px;
+}
+
+.h-infor {
+  text-align: center;
+  display: block;
+  margin-left: -10px;
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+}
+
+.emailButton {
+  width: 46px;
+  height: 47.7px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin-right: -2px;
+}
+
+.emailImage {
+  width: 22px;
+  height: 17px;
+  padding-top: 15px;
+  padding-left: 12px;
+}
+
+.id {
+  width: 413px;
+  height: 46px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid #ccc;
+}
+
+.id::placeholder {
+  color: rgb(170, 170, 170);
+}
+
+.password {
+  display: flex;
+  justify-content: center;
+}
+
+.passwordButton {
+  margin-top: 15px;
+  width: 46px;
+  height: 48px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin-right: -2px;
+}
+
+.passwordImage {
+  width: 22px;
+  height: 22px;
+  padding-top: 14px;
+  padding-left: 12px;
+}
+
+.pw {
+  margin-top: 15px;
+  width: 413px;
+  height: 46px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid #ccc;
+}
+
+.pw::placeholder {
+  color: rgb(170, 170, 170);
+}
+
+.ch-pass {
+  display: flex;
+  justify-content: center;
+}
+
+.ch-pass-Button {
+  margin-top: 15px;
+  width: 46px;
+  height: 48px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin-right: -2px;
+}
+
+.ch-passwordImage {
+  width: 22px;
+  height: 22px;
+  padding-top: 14px;
+  padding-left: 12px;
+}
+
+.ch-password-text {
+  margin-top: 15px;
+  width: 413px;
+  height: 46px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid #ccc;
+}
+
+.ch-password-text::placeholder {
+  color: rgb(170, 170, 170);
+}
+
+.name-all {
+  display: flex;
+  justify-content: center;
+}
+
+.nameButton {
+  margin-top: 15px;
+  width: 46px;
+  height: 48px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin-right: -2px;
+}
+
+.nameImage {
+  width: 22px;
+  height: 26px;
+  padding-top: 9px;
+  padding-left: 12px;
+}
+
+.name {
+  margin-top: 15px;
+  width: 413px;
+  height: 46px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid #ccc;
+}
+
+.name::placeholder {
+  color: rgb(170, 170, 170);
+}
+
+.phonenum-all {
+  display: flex;
+  justify-content: center;
+}
+
+.phoneButton {
+  margin-top: 15px;
+  width: 46px;
+  height: 48px;
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin-right: -2px;
+}
+
+.phoneImage {
+  width: 20px;
+  height: 24px;
+  padding-top: 11px;
+  padding-left: 12px;
+}
+
+.phonenum {
+  margin-top: 15px;
+  width: 413px;
+  height: 46px;
+  font-size: 14px;
+  font-weight: 700;
+  border: 1px solid #ccc;
+}
+
+.phonenum::placeholder {
+  color: rgb(170, 170, 170);
+}
+
+.line1 {
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  margin-top: 20px;
+
+  width: 30.5%;
+}
+
+.h-agree {
+  padding-left: 35px;
+}
+
+.h-infor {
+  text-align: center;
+  display: block;
+}
+
+.all-ch {
+  display: block;
+  text-align: center;
+
+  margin-left: -320px;
+}
+
+.ALL-check {
+  width: 20px;
+  height: 20px;
+  vertical-align: text-bottom;
+}
+
+.font {
+  font-weight: bold;
+}
+
+.ad {
+  display: flex;
+  justify-content: center;
+}
+
+.agree {
+  font-weight: bold;
+  font-size: 12px;
+  padding-left: 33px;
+  margin-top: 6px;
+}
+
+.big {
+}
+
+.m-box {
+  display: flex;
+  justify-content: center;
+  margin-left: 7px;
+}
+
+.message {
+  width: 470px;
+  height: 350px;
+  border: 1px solid #000;
+  margin-top: 20px;
+}
+
+.m-1 {
+}
+
+.ang {
+  margin-top: 17px;
+}
+
+.check-1 {
+  width: 20px;
+  height: 20px;
+  vertical-align: text-top;
+  margin-left: 20px;
+}
+
+.text {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ang2 {
+  margin-top: 7px;
+}
+
+.check-2 {
+  width: 20px;
+  height: 20px;
+  vertical-align: text-top;
+  margin-left: 42px;
+}
+
+.join {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.join-button {
+  width: 470px;
+  height: 52px;
+  background-color: #0074e9;
+  color: white;
+  border-style: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.last-text {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.textp {
+  font-size: 13px;
+}
+
+hr {
+  border: 0.5px solid rgb(220, 220, 220);
+}
