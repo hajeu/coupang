@@ -1,6 +1,8 @@
 function checkPW() {
   let id = $("#id").val();
   let pw = $("#password").val();
+  let name = $("#name").val();
+  let phonenum = $("#phonenum").val();
   let cpw = $("#password_a").val();
 
   if (id.length < 4 || id.length >= 20) alert("ID가 양식에 적합하지 않습니다.");
@@ -14,6 +16,8 @@ function checkPW() {
       data: {
         pw: pw,
         id: id,
+        name: name,
+        phonenum: phonenum,
       },
       success: function (data) {
         if (data === "중복ID") {
