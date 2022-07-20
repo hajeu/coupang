@@ -1,5 +1,4 @@
 const { Router } = require("express");
-const router = Router();
 
 router.post("/", async function (req, res, next) {
   let id = req.body.id;
