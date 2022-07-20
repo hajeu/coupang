@@ -21,9 +21,9 @@ function checkPW() {
       },
       success: function (data) {
         if (data === "중복ID") {
-          alert("이미 존재하는 ID입니다.");
+          alert("이미 존재하는 ID입니다");
         } else if (data === "성공") {
-          alert("정상적으로 회원가입 되었습니다.");
+          alert("정상적으로 회원가입 되었습니다");
         }
       },
     });
